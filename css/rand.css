@@ -1,0 +1,103 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Raleway:wght@100;500;700&display=swap"); */
+@font-face {
+	font-family: "Source Sans";
+	src: url("https://d33wubrfki0l68.cloudfront.net/f0f35e1c78339e9ab650f7d10a2b30af1ec0104a/147e5/assets/fonts/variable/sourcesansvariable-roman.ttf")
+		format("truetype-variations");
+	font-weight: 1 999;
+}
+* {
+	font-family: "Source Sans", sans-serif;
+	margin: 0;
+	padding: 0;
+}
+.container {
+	position: relative;
+	height: 100vh;
+}
+.bg {
+	top: 0;
+	left: 0;
+	z-index: -1;
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	overflow: hidden;
+	display: flex;
+	flex-wrap: wrap;
+}
+.box {
+	position: absolute;
+	opacity: 0.2;
+	border-radius: 10px;
+}
+.content,
+.container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.content {
+	flex-direction: column;
+}
+h1 {
+	font-size: 4rem;
+	font-weight: 900;
+}
+p {
+	font-size: 1.2rem;
+	font-weight: 100;
+}
+b {
+	font-weight: 400;
+}
+.number-input {
+	display: flex;
+	margin-bottom: 10px;
+	margin-top: 15px;
+	border-radius: 5px;
+	overflow: hidden;
+	box-shadow: 0 3px 6px #74747488;
+}
+.number-input > * {
+	border: none;
+	padding: 10px 20px;
+	background-color: #eee;
+	outline: none;
+}
+#limitInput {
+	text-align: center;
+	width: 60px;
+}
+#limitInput::-webkit-outer-spin-button,
+#limitInput::-webkit-inner-spin-button {
+	-webkit-appearance: none;
+	margin: 0;
+}
+
+/* Firefox */
+#limitInput[type="number"] {
+	-moz-appearance: textfield;
+}
+
+#decrease,
+#increase {
+	cursor: pointer;
+}
+
+#submitBtn {
+	cursor: pointer;
+	display: block;
+	margin: auto;
+	padding: 15px 30px;
+	font-size: 1.3rem;
+	border: none;
+	background-color: #eee;
+	border-radius: 5px;
+	box-shadow: 0 3px 6px #74747488;
+	text-align: center;
+	font-weight: 500;
+	transition: font-weight 0.5s;
+}
+#submitBtn:hover {
+	font-weight: 101;
+}
