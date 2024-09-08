@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>DMZ-BLOG</title>
+    <link rel="self" type="application/atom+xml" href="https://dimuziop.github.io/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://dimuziop.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-09-08T00:00:00+00:00</updated>
+    <id>https://dimuziop.github.io/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Sobre Mí</title>
+        <published>2024-09-08T00:00:00+00:00</published>
+        <updated>2024-09-08T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://dimuziop.github.io/about/"/>
+        <id>https://dimuziop.github.io/about/</id>
+        
+        <content type="html" xml:base="https://dimuziop.github.io/about/">&lt;h1 id=&quot;sobre-mi&quot;&gt;Sobre mí&lt;&#x2F;h1&gt;
+&lt;p&gt;¡Hola! Soy un ingeniero de software y técnico electrónico apasionado por la creación de soluciones tecnológicas. Mi blog nace como un espacio para compartir mis proyectos, hallazgos y experiencias en el desarrollo de software y tecnologías relacionadas.&lt;&#x2F;p&gt;
+&lt;p&gt;Me enfoco en áreas como &lt;strong&gt;Seguridad Informática&lt;&#x2F;strong&gt;, &lt;strong&gt;CDN&lt;&#x2F;strong&gt;, y el desarrollo de software utilizando tecnologías como &lt;strong&gt;Rust&lt;&#x2F;strong&gt;, &lt;strong&gt;JavaScript&#x2F;TypeScript&lt;&#x2F;strong&gt; (Node, React, Nest, React Native), &lt;strong&gt;Java&lt;&#x2F;strong&gt;, y &lt;strong&gt;Python&lt;&#x2F;strong&gt;. A través de este blog, busco documentar y compartir conocimiento que pueda ser de utilidad para la comunidad de desarrolladores.&lt;&#x2F;p&gt;
+&lt;p&gt;Lo que más disfruto es &lt;strong&gt;crear y materializar ideas&lt;&#x2F;strong&gt;, así como entender los fundamentos a nivel bajo de los sistemas con los que trabajo. Me motiva también mejorar los procesos de implementación y aprender sobre nuevas tecnologías que me permitan optimizar los procesos.&lt;&#x2F;p&gt;
+&lt;p&gt;En cuanto a mi experiencia, he tenido la oportunidad de trabajar en &lt;strong&gt;resolución de problemas complejos&lt;&#x2F;strong&gt;, &lt;strong&gt;manejo de requerimientos&lt;&#x2F;strong&gt;, y en &lt;strong&gt;fitting de productos&lt;&#x2F;strong&gt;. Creo firmemente en la importancia del &lt;strong&gt;profesionalismo y la responsabilidad&lt;&#x2F;strong&gt;, y disfruto colaborar con equipos, compartiendo mi expertiencia  y discutiendo problemáticas de forma constructiva.&lt;&#x2F;p&gt;
+&lt;p&gt;Con este blog, mi objetivo es contribuir al &lt;strong&gt;ecosistema de desarrolladores&lt;&#x2F;strong&gt;, sobre todo enestos  momentos en los que el panorama tecnológico puede parecer desafiante. Si estás interesado en discutir ideas, colaborar o simplemente compartir conocimientos, no dudes en ponerte en contacto conmigo.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;contacto&quot;&gt;Contacto&lt;&#x2F;h2&gt;
+&lt;p&gt;Puedes contactarme a través de:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Twitter: &lt;a href=&quot;https:&#x2F;&#x2F;www.instagram.com&#x2F;pat.dimuzio&quot;&gt;https:&#x2F;&#x2F;www.instagram.com&#x2F;pat.dimuzio&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Github: &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;dimuziop&quot;&gt;https:&#x2F;&#x2F;github.com&#x2F;dimuziop&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Discord: pato.io &lt;br &#x2F;&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Linkedin: &lt;a href=&quot;https:&#x2F;&#x2F;www.linkedin.com&#x2F;in&#x2F;dimuziop&#x2F;&quot;&gt;https:&#x2F;&#x2F;www.linkedin.com&#x2F;in&#x2F;dimuziop&#x2F;&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Hello! TEST</title>
+        <published>2024-09-08T00:00:00+00:00</published>
+        <updated>2024-09-08T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://dimuziop.github.io/posts/hello/"/>
+        <id>https://dimuziop.github.io/posts/hello/</id>
+        
+        <content type="html" xml:base="https://dimuziop.github.io/posts/hello/">&lt;h1 id=&quot;hello-test&quot;&gt;HELLO TEST&lt;&#x2F;h1&gt;
+</content>
+        
+    </entry>
+</feed>
